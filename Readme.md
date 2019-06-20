@@ -2,6 +2,7 @@
 
 # Run Project
 
+npm install
 npm start
 
 # View Swagger Documentation
